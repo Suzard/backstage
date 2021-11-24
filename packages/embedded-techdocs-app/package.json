@@ -1,7 +1,7 @@
 {
   "name": "embedded-techdocs-app",
   "version": "0.2.53",
-  "private": true,
+  "private": false,
   "bundled": true,
   "dependencies": {
     "@backstage/app-defaults": "^0.1.1",

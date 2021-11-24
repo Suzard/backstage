@@ -2,7 +2,7 @@
   "name": "storybook",
   "version": "0.2.0",
   "description": "Storybook build for components package",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "start-storybook -p 6006",
     "build-storybook": "build-storybook --output-dir dist"

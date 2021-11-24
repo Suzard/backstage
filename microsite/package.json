@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "name": "backstage-microsite",
   "license": "Apache-2.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "examples": "docusaurus-examples",
     "start": "docusaurus-start",

@@ -47,7 +47,7 @@ some-package@^1.1.0:
 {
   "name": "my-{{id}}-plugin",
   {{#if makePrivate}}
-    "private": true,
+    "private": false,
   {{/if}}
   "description": "testing",
   "dependencies": {
@@ -100,7 +100,7 @@ some-package@^1.1.0:
     ]);
     await expect(fs.readFile('/target/package.json', 'utf8')).resolves.toBe(`{
   "name": "my-testing-plugin",
-  "private": true,
+  "private": false,
   "description": "testing",
   "dependencies": {
     "some-package": "^1.1.0",

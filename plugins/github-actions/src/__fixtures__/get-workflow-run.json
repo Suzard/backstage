@@ -111,7 +111,7 @@
     "node_id": "MDEwOlJlcG9zaXRvcnkyMTc3MjMzNzg=",
     "name": "octo-repo",
     "full_name": "octo-org/octo-repo",
-    "private": true,
+    "private": false,
     "owner": {
       "login": "octocat",
       "id": 1,
