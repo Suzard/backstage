@@ -1,6 +1,6 @@
 {
   "name": "@edwardchentesting/backstage",
-  "private": true,
+  "private": false,
   "engines": {
     "node": "14 || 16"
   },
