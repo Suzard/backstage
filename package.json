@@ -1,5 +1,5 @@
 {
-  "name": "smartthings-backstage",
+  "name": "@edwardchentesting/backstage",
   "private": true,
   "engines": {
     "node": "14 || 16"
