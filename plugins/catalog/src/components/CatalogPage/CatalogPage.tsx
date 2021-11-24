@@ -65,7 +65,7 @@ export const CatalogPage = ({
         <Content>
           <ContentHeader titleComponent={<CatalogKindHeader />}>
             <CreateButton
-              title="Create Component"
+              title="Create Components"
               to={createComponentLink && createComponentLink()}
             />
             <SupportButton>All your software catalog entities</SupportButton>

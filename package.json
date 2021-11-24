@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "smartthings-backstage",
   "private": true,
   "engines": {
     "node": "14 || 16"
@@ -51,7 +51,7 @@
     "**/@roadiehq/**/@backstage/plugin-catalog": "*",
     "**/@roadiehq/**/@backstage/catalog-model": "*"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@microsoft/api-documenter": "^7.13.68",
     "@microsoft/api-extractor": "^7.18.7",
